@@ -1,6 +1,7 @@
+Python 3.11.8
 streamlit==1.29.0
 transformers==4.40.0  # Latest version with Python 3.13 support
-torch==2.3.0          # Compatible with Python 3.11.8
+torch==2.3.0          # Compatible with 
 spacy==3.7.2
 pandas==2.1.4
 requests==2.31.0
